@@ -16,12 +16,7 @@
 >
 > **Compliance & Legal Responsibility:** You are responsible for complying with all applicable laws, regulations, and contractual obligations in your jurisdiction and the target’s jurisdiction. This repository does not grant any license to commit unlawful acts or to violate terms of service or contractual agreements.
 >
-> **Attribution & Redistribution:** If you redistribute or modify any material from this repository, include this disclaimer prominently in any derived works or forks.
->
-> **Report Issues / Contact:** If you find a dangerous, unintentional behavior or want to request removal of specific content, contact the repository owner at: `<your-contact@example.com>` (replace with a real contact) and include “SECURITY/DISCLAIMER” in the subject line.
->
 > **Indemnification:** By using the materials in this repository you agree to indemnify and hold harmless the author, contributors, and affiliated organizations from any claims, liabilities, damages, or costs (including reasonable attorneys’ fees) arising from your use or misuse of the materials.
 >
 > **Acknowledgement:** By cloning, downloading, or running code from this repository you acknowledge that you have read, understood, and agreed to this disclaimer and the terms set forth above.
->
-> **Recommended placement:** Place this notice at the top of `README.md` and in a separate `NOTICE.md` file at the repository root so it remains visible during forks and distribution.
+
